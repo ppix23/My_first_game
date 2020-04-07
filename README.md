@@ -1,5 +1,7 @@
 # PyGame Breakout
 
+[![Run on Repl.it](https://repl.it/badge/github/ppix23/My_first_game)](https://repl.it/github/ppix23/My_first_game)
+
 This is a simple implementation with Python 3 and PyGame of the classic [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)) game. The purpose is to serve as a demo game for a
 series of articles on building games with Python 3 and PyGame:
 
